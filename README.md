@@ -1,5 +1,5 @@
 # Case Study 2: Differential Gene Expression Profiling in Tuberculosis Using GEO2R
-## Background: 
+## Background 
 Studi kasus ini merupakan implementasi analisis Differentially Expressed Genes (DEG) menggunakan dataset publik GSE62525 dari database Gene Expression Omnibus (GEO). Dataset ini berisi data transcriptomics berbasis microarray dari peripheral blood mononuclear cells (PBMC) individu dengan tuberkulosis aktif, infeksi laten, serta individu sehat. Analisis dilakukan menggunakan GEO2R sebagai web-based tool untuk membandingkan profil ekspresi gen antara kelompok terinfeksi dan kelompok kontrol.
 
 ## Project Purpose
@@ -12,13 +12,13 @@ Proyek ini bertujuan untuk:
 Studi ini juga berfungsi sebagai latihan dalam memahami alur analisis DEG secara sistematis dan reproducible.
 
 ## Dataset and Experimental Design
-### Dataset: GSE62525
-### Platform: Phalanx Human OneArray Ver. 6 (Microarray)
-### Sampel:
+Dataset: GSE62525
+Platform: Phalanx Human OneArray Ver. 6 (Microarray)
+Sampel:
 - Active TB
 - Latent TB
 - Healthy controls
-### Dalam analisis ini:
+Dalam analisis ini:
 - Group 1 (Infected): Active TB + Latent TB
 - Group 2 (Healthy): Individu sehat
 
