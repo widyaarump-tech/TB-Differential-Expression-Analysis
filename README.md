@@ -13,11 +13,14 @@ Studi ini juga berfungsi sebagai latihan dalam memahami alur analisis DEG secara
 
 ## Dataset and Experimental Design
 Dataset: GSE62525
+
 Platform: Phalanx Human OneArray Ver. 6 (Microarray)
+
 Sampel:
 - Active TB
 - Latent TB
 - Healthy controls
+
 Dalam analisis ini:
 - Group 1 (Infected): Active TB + Latent TB
 - Group 2 (Healthy): Individu sehat
